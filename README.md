@@ -1,2 +1,2 @@
-# Barber-0
+# Barber
 Barber Website
